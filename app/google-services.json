@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2805477154",
+    "project_id": "notesfirebase-cdf27",
+    "storage_bucket": "notesfirebase-cdf27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2805477154:android:4949bfb442c5a0ab877f7b",
+        "android_client_info": {
+          "package_name": "com.adrianedilao.notesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2805477154-14igjqaclp69rftrtn7qs68g2bs8uf1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-RqcC1D81oPcs1gbV9kX3msL6-TwfGQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2805477154-14igjqaclp69rftrtn7qs68g2bs8uf1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
